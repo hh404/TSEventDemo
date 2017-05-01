@@ -1,0 +1,13 @@
+//
+//  TSAplication.h
+//  TestCorePlot
+//
+//  Created by huangjianwu on 2016/12/5.
+//  Copyright © 2016年 huangjianwu. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+
+@interface TSAplication : UIApplication
+
+@end
